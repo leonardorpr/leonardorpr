@@ -8,9 +8,6 @@ In my free time I like to play games, to watch movies, series and read books.
 
 Would you like to find me?
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardo_rpr)](https://twitter.com/leonardo_rpr)
- 
-<a href="https://github.com/leonardorpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorpr&theme=midnight-purple&show_icons=true" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leozeradev)](https://twitter.com/leozeradev)
+
 
